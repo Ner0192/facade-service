@@ -1,0 +1,57 @@
+{"properties": [
+  {
+    "name": "otel.exporter",
+    "type": "java.lang.String",
+    "description": "A description for 'otel.exporter'"
+  },
+  {
+    "name": "jaeger.service-name",
+    "type": "java.lang.String",
+    "description": "A description for 'jaeger.service-name'"
+  },
+  {
+    "name": "jaeger.endpoint",
+    "type": "java.lang.String",
+    "description": "A description for 'jaeger.endpoint'"
+  },
+  {
+    "name": "jaeger.sampler.type",
+    "type": "java.lang.String",
+    "description": "A description for 'jaeger.sampler.type'"
+  },
+  {
+    "name": "jaeger.sampler.param",
+    "type": "java.lang.String",
+    "description": "A description for 'jaeger.sampler.param'"
+  },
+  {
+    "name": "services.backup-customer-service",
+    "type": "java.lang.String",
+    "description": "A description for 'services.backup-customer-service'"
+  },
+  {
+    "name": "services.backup-payment-service",
+    "type": "java.lang.String",
+    "description": "A description for 'services.backup-payment-service'"
+  },
+  {
+    "name": "spring.cloud.openfeign.circuitbreaker.enabled",
+    "type": "java.lang.String",
+    "description": "A description for 'spring.cloud.openfeign.circuitbreaker.enabled'"
+  },
+  {
+    "name": "log4j2.pattern",
+    "type": "java.lang.String",
+    "description": "A description for 'log4j2.pattern'"
+  },
+  {
+    "name": "logger.masked.fields",
+    "type": "java.lang.String",
+    "description": "A description for 'logger.masked.fields'"
+  },
+  {
+    "name": "response.masked.fields",
+    "type": "java.lang.String",
+    "description": "A description for 'response.masked.fields'"
+  }
+]}
